@@ -1,4 +1,4 @@
-    #EXTM3U
-
-    #EXTINF:-1 tvg-logo=”https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.pngg” group-title=”Sports”, T-Sports
-    http://cdn.ihub.live:8082/Tsports/index.m3u8?token=2232427e47b6672e4091e759ecdc538eee4e26c8-ecb9d15d0728caa0c4fe9cf31531d253-1731247407-1731236607
+#EXTM3U
+#SOURCEIT
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/T_Sports#/media/File:T_Sports_logo.pngg" group-title="Sports",01.TSports
+http://cdn.ihub.live:8082/Tsports/index.m3u8?token=2232427e47b6672e4091e759ecdc538eee4e26c8-ecb9d15d0728caa0c4fe9cf31531d253-1731247407-1731236607
