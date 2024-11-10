@@ -1,6 +1,12 @@
 #EXTM3U
 #SOURCEIT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",01.TSports
-http://cdn.ihub.live:8082/Tsports/index.m3u8?token=2232427e47b6672e4091e759ecdc538eee4e26c8-ecb9d15d0728caa0c4fe9cf31531d253-1731247407-1731236607
+http://cdn.ihub.live:8082/Tsports/index.m3u8?token=f82f8d5e7c2cd741310a24df1db2fd7f4a7e4f17-3b446d5c48a81397124062190dc205fa-1731272631-1731261831
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/5PsRkPd.png" group-title="Bangla",02.ATN Bangla
-http://cdn.ihub.live:8082/ATNBangla/index.m3u8?token=8a2c12df43539c84fec7f6fe3c923f9bc3c8667d-8a5bf9e36ca803b6ebdafe34140c4ef0-1731255349-1731244549
+http://cdn.ihub.live:8082/ATNBangla/index.m3u8?token=65091bba97b3888760a4ba75f36ed55604ec81df-603dbc9898925db41110551327d4d687-1731272679-1731261879
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",3.DBC News
+http://cdn.ihub.live:8082/DBCNews/index.m3u8?token=f55174d2f0040e91a6a8e36bfdf9057a1d1c2c1b-60aba93c39fb6d8ba8c76a38d567ca86-1731272705-1731261905
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v9PqrCG.png" group-title="Bangla",15.ATN News
+http://cdn.ihub.live:8082/ATNNews/index.m3u8?token=45e38f4b1c0ef6c31951c9b04c30233c39e424cf-e54e91cb0d0dc41bb7e9b10183f7bf6b-1731272901-1731262101
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png" group-title="Bangla",18.Independent TV
+http://cdn.ihub.live:8082/Independent/index.m3u8?token=99d8754986e8aa1209f575728ac0f04c2ba766b7-e7de86e0311f810272cb0a7e4936ed10-1731273042-1731262242
