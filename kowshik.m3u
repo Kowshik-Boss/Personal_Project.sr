@@ -1,7 +1,7 @@
 #EXTM3U
 #SOURCEIT
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",01.TSports
-http://cdn.ihub.live:8082/Tsports/index.m3u8?token=af7187006fab06814774b78c29a2416b1331f9ce-6069b8d7880932dec040a1d1b9ebdcb3-1731321927-1731311127
+http://cdn.ihub.live:8082/Tsports/index.m3u8?token=944657956bdb72329dde656b81315b037002d71b-2d459570bb006b071f34d0b284fdaf4a-1731422102-1731411302
 #EXTINF:-1 tvg-logo="ttps://i.imgur.com/5PsRkPd.png" group-title="Bangla",02.ATN Bangla
 http://cdn.ihub.live:8082/ATNBangla/index.m3u8?token=5335bc4954f9e8bb7ffb791678071b055ca6de56-fbc6d84e7a3da55238649ad9ded90e7e-1731321946-1731311146
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="Bangla",3.DBC News
